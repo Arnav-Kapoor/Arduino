@@ -1,0 +1,12 @@
+vss- gnd
+vcc- +5v
+Vee(Vo)- gnd(with resistor 1k ohm)
+RS- D7
+R/W- gnd
+E(enable)- D8
+DB4- D9
+DB5- D10
+DB6- D11
+DB7- D12
+led+- +5
+led-- gnd
